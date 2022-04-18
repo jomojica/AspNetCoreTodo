@@ -8,6 +8,14 @@ namespace AspNetCoreTodo.Controllers
 {
     public class TodoController : Controller
     {
-        // Las acciones van aquí
+        public IActionResult Index()
+        {
+            // Obtener las tareas desde la base de datos
+
+            // Colocar los tareas en un modelo
+
+            // Genera la vista usando el modelo
+            return Index();
+        }
     }
 }
