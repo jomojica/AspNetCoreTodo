@@ -80,3 +80,4 @@ C:\Users\jomojica\Documents\Visual Studio 2019\Projects\AspNetCoreTodo\AspNetCor
 C:\Users\jomojica\Documents\Visual Studio 2019\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net5.0\ref\AspNetCoreTodo.dll
 C:\Users\jomojica\Documents\Visual Studio 2019\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net5.0\AspNetCoreTodo.pdb
 C:\Users\jomojica\Documents\Visual Studio 2019\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net5.0\AspNetCoreTodo.genruntimeconfig.cache
+C:\Users\jomojica\Documents\Visual Studio 2019\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net5.0\Razor\Views\Todo\Index.cshtml.g.cs
